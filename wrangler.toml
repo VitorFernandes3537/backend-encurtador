@@ -1,0 +1,3 @@
+name = "backend-encurtador"
+main = "index.js"
+compatibility_date = "2026-08-31"
